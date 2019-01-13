@@ -1,2 +1,2 @@
 # alarms
-qt creator c++ alarms learning
+Alarms app using Qt and C++
