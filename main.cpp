@@ -1,5 +1,6 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QtQuickControls2>
 
 int main(int argc, char *argv[])
 {
